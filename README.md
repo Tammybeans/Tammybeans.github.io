@@ -3,7 +3,16 @@
 Body of text body of text body of text.
 
 
-<h2>My top level heading</h2>
+<h2>Breakfast</h2>
+
+<p>The best breakfast includes</p>
+
+<ul>
+  <li>taters</li>
+  <li>eggies</li>
+  <li>fruits</li>
+  <li>wine</li>
+ </ul> 
 
 You can use the [editor on GitHub](https://github.com/Tammybeans/tammybeans.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
